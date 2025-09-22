@@ -1,0 +1,7 @@
+valuetoextract1=27||9||41||6||18
+valuetoextract2=73||25||11||88||39
+valuetoextract3=15||62||34||7||50
+valuetoextract4=81||23||56||12||44
+valuetoextract5=29||77||13||68||35
+valuetoextract6=54||19||72||8||60
+valuetoextract7=38||91||21||47||16

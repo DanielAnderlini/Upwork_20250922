@@ -1,0 +1,2 @@
+valuetoextract1=5||3||23||2||4
+valuetoextract2=23||93||3||22||98
